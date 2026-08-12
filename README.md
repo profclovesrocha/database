@@ -4,7 +4,13 @@
 ...
 
 # COURSE SYLLABUS:
-- Introduction to Databases (Concepts and objectives). Relational Model. SQL Queries: DML, DCL, DTL, and DQL. Study of advanced database administration features (Views, Sequences, Indexes). Database Security (User creation, Privileges, Rules). Database Programming (Triggers and Procedures). Data Design.
+- Introduction to Databases (Concepts and objectives).
+- Relational Model.
+- SQL Queries: DML, DCL, DTL, and DQL.
+- Study of advanced database administration features (Views, Sequences, Indexes).
+- Database Security (User creation, Privileges, Rules).
+- Database Programming (Triggers and Procedures).
+- Data Design.
 
 # SPECIFIC COMPETENCIES:
 - Understand database environments;
