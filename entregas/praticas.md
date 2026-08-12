@@ -1,4 +1,4 @@
-# Exercícios
+# Lista de Exercícios
 1. Descreva alguns fatores que levam alguém a preferir o uso de arquivos convencionais ao uso de um Sistema de Banco de Dados. 
 
 2. Descreva alguns fatores que levam alguém a preferir o uso de Sistemas de Banco Dados ao uso de arquivos convencionais.
