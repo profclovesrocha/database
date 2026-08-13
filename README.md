@@ -1,7 +1,7 @@
 # Classroom Management and Service Level Agreement 2026.2
 - Class Log
 1. Class 1 | Course Overview and Introduction.
-2. Class 2 | ...
+2. Class 2 | Database concepts and Evolution of databases.
 ...
 
 # COURSE SYLLABUS:
