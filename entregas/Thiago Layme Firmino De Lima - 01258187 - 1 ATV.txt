@@ -1,0 +1,42 @@
+﻿THIAGO LAYME FIRMINO DE LIMA - 01258187 - 2° CC
+
+
+1. Descreva alguns fatores que levam alguém a preferir o uso de arquivos convencionais ao uso de um Sistema de Banco de Dados.
+Baixo custo, Simplicidade, Pouca quantidade de dados, Necessidade de rapidez na implementação, Aplicação simples e individual, Menor necessidade de manutenção
+2. Descreva alguns fatores que levam alguém a preferir o uso de Sistemas de Banco Dados ao uso de arquivos convencionais. 
+Maior segurança, Redução da redundância, Facilidade de acesso, Compartilhamento de dados, Integridade dos dados, Backup e recuperação, Maior volume de dados
+3. Defina os seguintes conceitos relacionados a modelagem de dados: modelo conceitual, modelo lógico, e modelo físico.
+Modelo conceitual: representa os dados de forma mais geral, mostrando as principais entidades, atributos e relacionamentos, sem se preocupar com detalhes técnicos de implementação. Modelo lógico: transforma o modelo conceitual em uma estrutura que pode ser implementada em um banco de dados, definindo tabelas, campos, chaves primárias e relacionamentos. Modelo físico: apresenta como os dados serão armazenados no computador, envolvendo detalhes como tipos de dados, índices, arquivos, organização do armazenamento e espaço em disco.
+4.  A definição do fator de bloco de um arquivo faz parte de que modelo: do modelo conceitual, do modelo lógico ou do modelo físico?
+
+
+A definição do fator de bloco faz parte do modelo físico, pois está relacionada à forma como os dados serão armazenados fisicamente no dispositivo de armazenamento. 
+
+
+5. A definição do tipo de um dado (numérico, alfanumérico,…) faz parte de que modelo: do modelo conceitual, do modelo lógico ou do modelo físico?
+
+
+A definição do tipo de dado, como numérico, alfanumérico, data, texto, entre outros, faz parte do modelo lógico.
+
+
+6. Qual a diferença entre a redundância de dados controlada e a redundância de dados não controlada? Dê exemplos de cada uma delas.
+Redundância controlada acontece quando uma informação é armazenada mais de uma vez de forma intencional, porque isso traz algum benefício ao sistema, como melhorar o desempenho ou facilitar determinadas consultas. Essa repetição é planejada e administrada pelo sistema.
+Exemplo: em um sistema de vendas, o preço de um produto pode ser armazenado também na tabela de itens da venda para manter o preço praticado naquele momento, mesmo que o preço atual do produto seja alterado posteriormente.
+Redundância não controlada acontece quando os mesmos dados são armazenados várias vezes sem planejamento, podendo gerar inconsistências e informações diferentes para o mesmo dado.
+Exemplo: o endereço de um cliente é armazenado em vários arquivos diferentes. Se o cliente mudar de endereço e apenas um desses arquivos for atualizado, o sistema passará a ter endereços diferentes para a mesma pessoa.
+7.
+Dados pessoais
+* Matrícula: _________________________*
+* Nome completo: _____________________________________________*
+* Data de nascimento: ____/____/_________*
+* Sexo: ☐ Masculino ☐ Feminino ☐ Outro/Não informar
+* Nome do pai: ____________________________________________
+* Nome da mãe:_____________________________________________*
+* Nome do(a) cônjuge: _____________________________________
+* Endereço: _____________________________________________*
+* Número: _________________*
+* Complemento: ___________________________________________
+* CEP: _____.____-_____*
+* Bairro: _______________________________________________*
+* Cidade: _______________________________________________*
+* UF: _________*
