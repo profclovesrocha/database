@@ -24,7 +24,7 @@
 # ASSESSMENT 2 
 - (Assessment 2 – AV2) will be split between projects and a written exam—that is, two assessment components—with the project accounting for 80% and the written exam for 20% of the AV2 grade.
 
-- Practice Test for Written Exams (ENADE Style): https://abre.ai/...
+- Practice Test for Written Exams (ENADE Style): https://abre.ai/enadestyledatabase 
 
 - Docente:
   Prof. Mentor Cloves Rocha.
