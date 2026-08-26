@@ -40,5 +40,8 @@
 3. ?
 
 # Mind Map
+<img width="4305" height="8537" alt="NotebookLM Mind Map (12)" src="https://github.com/user-attachments/assets/ddceaf39-4609-441c-97dd-3ea422b0cc1c" />
 
 # Roadmap - Course_Blueprint
+<img width="2752" height="1536" alt="Database_Course_2026 2_Roadmap" src="https://github.com/user-attachments/assets/3ccf4c3a-4f1f-4c3c-be77-42ef5d1383a8" />
+
