@@ -1,0 +1,32 @@
+Respostas das Questões
+
+
+1-  Por não conhecer o sistema de banco de dados, acaba trazendo alguns fatores do porque ainda continuam com o meio convencional
+sendo eles:
+
+.Pensarem que tem um custo muito alto e manutenção de sistema bastante cara
+.acharem que existe muita dificuldade em manusear o sistema
+.pelo costume de sempre utilizarem o mesmo sistema, não querem sair da zoa de conforto e tentar buscar conhecer outro tipo de sistema.
+
+2- Alguns fatores são:
+
+. Facilidade em demonstrações de dados
+. Manuseio rápido e prático
+. menos complexidade
+
+3-
+Modelo conceitual: Basicamente é o que cada dado representa, e trás facilidade para até quem não entende de tecnologia poder estar compreendendo os dados
+assim trazendo as ideias iniciais sem demonstração de tabelas e entre outros.
+
+Modelo Lógico: Trás todas as ideias incias do modelo conceitual mas agora em tabelas e chaves, assim trazendo mais detalhes na sua visualização
+
+Modelo Físico: a criação do código SQL adaptando-se a um programa específico de banco de dados
+
+4- Modelo Físico pois ele mostra como os dados serão organizados em blocos ou páginas
+
+5- Modelo Lógico pois demonstra a ideia inicial, a primeira parte do sistema que são as informações
+
+6- enquanto a controlada é totalmente planejada e direcionada pelo sistema (como o SGBD) a não controlada pode vim por uma tentativa de fazer sem organização nenhuma
+assim sem direcionamento e trazendo erros e falhas e tendo que atualizar de forma manual.
+
+
