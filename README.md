@@ -21,8 +21,9 @@
 - Code database routines (Triggers and Procedures);
 - Utilize advanced database features.
   
-# ASSESSMENT 2 
-- (Assessment 2 – AV2) will be split between projects and a written exam—that is, two assessment components—with the project accounting for 80% and the written exam for 20% of the AV2 grade.
+# ASSESSMENT 
+- Assessment 1 (AV1) will be divided into the Virtual Learning Environment (AVA) component (20%) and a written exam—comprising two assessment components—with the written exam accounting for 80% of the AV1 grade.
+- Assessment 2 (AV2) will be divided into projects and a written exam—comprising two assessment components—with the project accounting for 80% and the written exam for 20% of the AV2 grade.
 
 - Practice Test for Written Exams (ENADE Style): https://abre.ai/enadestyledatabase 
 
