@@ -4,8 +4,8 @@
 2. Class 2 | Database concepts and Evolution of databases.
 3. Class 3 | BD - Evolução dos Banco de Dados.
 4. Class 4 | SGBD - Sistemas de Gerenciamento de Banco de Dados.
-5. Class 5 | ...
-6. Class 6 | ...
+5. Class 5 | Modelagem Conceitual.
+6. Class 6 | Projeto Lógico.
 
 
 # COURSE SYLLABUS:
