@@ -6,6 +6,7 @@
 4. Class 4 | SGBD - Sistemas de Gerenciamento de Banco de Dados.
 5. Class 5 | Modelagem Conceitual.
 6. Class 6 | Projeto Lógico.
+7. Class 7 | Normalização.
 
 
 # COURSE SYLLABUS:
