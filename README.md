@@ -31,12 +31,12 @@
   Prof. Mentor Cloves Rocha.
 
 - Discentes:
-1. ?
+1. João Vitor Nascimento da Silva
 2. ?
 3. ?
 
 # GROUPS / PROJECTS / CHALLENGES
-1. ?
+1. João Vitor N., Lucas Ximenes, Thiago da Silva, Thiago Layme, Marcos Antônio, Marcondes Paixão - Mineração de dados
 2. ?
 3. ?
 
