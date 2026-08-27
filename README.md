@@ -2,7 +2,11 @@
 - Class Log
 1. Class 1 | Course Overview and Introduction.
 2. Class 2 | Database concepts and Evolution of databases.
-2. Class 3 | BD - Evolução dos Banco de Dados.
+3. Class 3 | BD - Evolução dos Banco de Dados.
+4. Class 4 | SGBD - Sistemas de Gerenciamento de Banco de Dados.
+5. Class 5 | ...
+6. Class 6 | ...
+
 
 # COURSE SYLLABUS:
 - Introduction to Databases (Concepts and objectives).
