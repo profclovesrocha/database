@@ -1,0 +1,11 @@
+1- Os arquivos convencionais podem ser preferidos por terem menor custo e serem mais simples de implementar, principalmente em sistemas pequenos, com pouca quantidade de dados e poucos usuários. 
+
+2- Os Sistemas de Banco de Dados são preferidos porque permitem compartilhar informações entre vários usuários e aplicações, reduzem a redundância e a inconsistência dos dados, oferecem maior segurança e controle de acesso.
+
+3- O modelo conceitual representa os dados e seus relacionamentos. O modelo lógico define tabelas, campos e chaves. O modelo físico mostra como os dados serão armazenados no computador.
+
+4- A definição do fator de bloco de um arquivo faz parte do modelo físico, pois está relacionada à forma como os dados são organizados e armazenados fisicamente no dispositivo.
+
+5- A definição do tipo de um dado, como numérico ou alfanumérico, faz parte do modelo lógico, pois determina as características dos campos que serão utilizados na estrutura do banco de dados.
+
+6- A redundância controlada é a repetição planejada de dados para melhorar o sistema. A não controlada ocorre sem organização e pode causar erros. Por exemplo, um endereço diferente para o mesmo cliente em arquivos distintos.
