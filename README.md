@@ -37,7 +37,7 @@
 
 - Discentes:
 1. João Vitor Nascimento da Silva
-2. ?
+2. Lucas Ximenes de Albuquerque 
 3. ?
 
 # GROUPS / PROJECTS / CHALLENGES
