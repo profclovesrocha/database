@@ -38,7 +38,7 @@
 - Discentes:
 1. João Vitor Nascimento da Silva
 2. Lucas Ximenes de Albuquerque 
-3. ?
+3. Marcos Antônio de Lima lira Neto 
 
 # GROUPS / PROJECTS / CHALLENGES
 1. ?
