@@ -1,11 +1,59 @@
-1- Os arquivos convencionais podem ser preferidos por terem menor custo e serem mais simples de implementar, principalmente em sistemas pequenos, com pouca quantidade de dados e poucos usuários. 
+1- Qual alternativa melhor define uma transação para o banco de dados?
 
-2- Os Sistemas de Banco de Dados são preferidos porque permitem compartilhar informações entre vários usuários e aplicações, reduzem a redundância e a inconsistência dos dados, oferecem maior segurança e controle de acesso.
+A. E uma atividade que o próprio sistema de gerenciamento de banco de dados executa apos o usuário ter uma interação com o banco
 
-3- O modelo conceitual representa os dados e seus relacionamentos. O modelo lógico define tabelas, campos e chaves. O modelo físico mostra como os dados serão armazenados no computador.
+B. É toda e qualquer atividade que o próprio sistema de gerenciamento de banco de dados executa após o usuário ter uma interação com o banco.
 
-4- A definição do fator de bloco de um arquivo faz parte do modelo físico, pois está relacionada à forma como os dados são organizados e armazenados fisicamente no dispositivo.
+C. E toda e qualquer atividade que o usuário do sistema de gerenciamento de banco de dados executa após o usuário ter uma interação com o banco.
 
-5- A definição do tipo de um dado, como numérico ou alfanumérico, faz parte do modelo lógico, pois determina as características dos campos que serão utilizados na estrutura do banco de dados.
+D. É uma ou no máximo duas atividade que o próprio sistema de gerenciamento de banco de dados executa após o usuário ter uma interação com o banco. 
 
-6- A redundância controlada é a repetição planejada de dados para melhorar o sistema. A não controlada ocorre sem organização e pode causar erros. Por exemplo, um endereço diferente para o mesmo cliente em arquivos distintos.
+resposta questão 1: Letra a
+
+2- O que quer dizer NoSQL?
+
+A. Número SQL.
+
+B. Dentro do SQL.
+
+C. Not only SQL.
+
+D. Não SQL.
+
+resposta questão 2: Letra c
+
+3- Qual foi o período de maior atividade na história dos bancos de dados?
+
+A. Décadas de 1970 e 1980.
+
+B. Décadas de 1960 e 1970.
+
+C. Anos 2000.
+
+D. Década de 1980 e anos 2000. 
+
+resposta questão 3: Letra d
+
+4- Qual das alternativas a seguir representa os pilares dos Sistemas de Gerenciamento de Banco de Dados (SGBDs)?
+
+A. Consistência, atomicidade, durabilidade e tabelas.
+
+B. Isolamento, durabilidade e consistência.
+
+C. Atomicidade, consistência e durabilidade.
+
+D. Atomicidade, consistência, durabilidade e isolamento.
+
+resposta questão 4: Letra d
+
+5- Qual é considerada a "regra de ouro" para os bancos de dados?
+
+A. É a garantia de que todos os pilares das transações sejam garantidos e respeitados em alguma de suas transações internas.
+
+B. É a garantia de que todos os quatro pilares das transações não sejam garantidos e respeitados em cada uma de suas transações internas.
+
+C. É a garantia de que todos os quatro pilares das transações sejam respeitados em cada uma de suas transações internas.
+
+D. É a garantia de que todos os três pilares das transações sejam garantidos e respeitados em cada uma de suas transações internas.
+
+resposta questão 5: Letra c
