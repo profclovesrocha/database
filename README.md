@@ -36,7 +36,7 @@
   Prof. Mentor Cloves Rocha.
 
 - Discentes:
-1. ?
+1. João Vitor Nascimento da Silva
 2. ?
 3. ?
 
