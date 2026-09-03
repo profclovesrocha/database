@@ -40,6 +40,7 @@
 2. Lucas Ximenes de Albuquerque 
 3. Marcos Antônio de Lima lira Neto
 4. João Pedro Machado Farias 
+5. Kauã Manoel Santos da Silva 
 
 # GROUPS / PROJECTS / CHALLENGES
 1. ?
