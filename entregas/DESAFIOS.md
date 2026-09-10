@@ -1,4 +1,4 @@
-# Lista de Exercícios
+# Lista de DESAFIOS
 1. Descreva alguns fatores que levam alguém a preferir o uso de arquivos convencionais ao uso de um Sistema de Banco de Dados. 
 
 2. Descreva alguns fatores que levam alguém a preferir o uso de Sistemas de Banco Dados ao uso de arquivos convencionais.
@@ -24,6 +24,10 @@
 - Bairro;
 - Cidade;
 - UF.
+
+# DESAFIO DA AULA 5
+- Uma firma vende produtos de limpeza, e deseja melhor controlar os produtos que vende, seus clientes e os pedidos. Cada produto é caracterizado por um código, nome do produto, categoria (ex. detergente, sabão em pó, sabonete, etc.), e seu preço. A firma possui informações sobre todos seus clientes. Cada cliente é identificado por um código, nome, endereço, telefone, status (ex. "bom", "médio", "ruim"), e o seu limite de crédito.
+- Guarda-se igualmente a informação dos pedidos feitos pelos clientes. Cada pedido possui um número e guarda-se a data de elaboração do pedido. Cada pedido pode envolver de um a vários produtos, e para cada produto, indica-se a quantidade deste pedida.
 
 
 
