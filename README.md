@@ -7,7 +7,6 @@
 5. Class 5 | Modelagem Conceitual.
 6. Class 6 | Projeto Lógico.
 7. Class 7 | Normalização.
-- EXTRA 🔴 LIVE - Como trabalhar com Banco de Dados? da modelagem a implementação! https://www.youtube.com/live/r-jxUkxg2Zw?si=rRQ1QhsyLtqLKHKo
 
 
 # COURSE SYLLABUS:
@@ -46,8 +45,10 @@
 
 # GROUPS / PROJECTS / CHALLENGES
 1. João Vitor Nascimento da Silva, Lucas Ximenes de Albuquerque, Marcondes Paixão Silva de Albuquerque Júnior, Marcos Antônio de Lima lira Neto, Thiago Layme Firmino de Lima, Tiago da Silva
-2. Alexandre, Iago vinicius, Iasmin sales, João Pedro Gonçalves, Marcos Gabriel, Miguel Vitor
+2. ?
 3. ?
+4. ?
+5. Thiago Pimentel Ferreira de Souza Cabral, Guilherme César Teixeira Pontes Pereira, Igor da Cruz Ribeiro de Andrade, Kauã Manoel dos Santos Silva, Gabriel Rian Souza da Silva, Layzon Moura de Albuquerque 
 
 # Mind Map
 <img width="4305" height="8537" alt="NotebookLM Mind Map (12)" src="https://github.com/user-attachments/assets/ddceaf39-4609-441c-97dd-3ea422b0cc1c" />
