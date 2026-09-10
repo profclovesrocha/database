@@ -1,5 +1,5 @@
 # Welcome!
-- Class Log|Docente: Prof. Mentor Cloves Rocha.
+_Class Log | Docente: Prof. Mentor Cloves Rocha.
 1. Class 1 | Course Overview and Introduction.
 2. Class 2 | Database concepts and Evolution of databases.
 3. Class 3 | BD - Evolução dos Banco de Dados.
