@@ -45,6 +45,7 @@
 
 # GROUPS / PROJECTS / CHALLENGES
 1. João Vitor Nascimento da Silva, Lucas Ximenes de Albuquerque, Marcondes Paixão Silva de Albuquerque Júnior, Marcos Antônio de Lima lira Neto, Thiago Layme Firmino de Lima, Tiago da Silva dos Santos.
+https://canva.link/0ptmxxo1oxd5tyc
 2. ?
 3. ?
 
