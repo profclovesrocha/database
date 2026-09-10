@@ -40,10 +40,11 @@
 2. Lucas Ximenes de Albuquerque 
 3. Marcos Antônio de Lima lira Neto
 4. João Pedro Machado Farias 
-5. Kauã Manoel Santos da Silva 
+5. Kauã Manoel Santos da Silva
+6. Marcondes Paixão Silva de Albuquerque Júnior
 
 # GROUPS / PROJECTS / CHALLENGES
-1. ?
+1. João Vitor Nascimento da Silva, Lucas Ximenes de Albuquerque, Marcondes Paixão Silva de Albuquerque Júnior, Marcos Antônio de Lima lira Neto, Thiago Layme Firmino de Lima, Tiago da Silva dos Santos.
 2. ?
 3. ?
 
