@@ -42,11 +42,9 @@ _Class Log | Docente: Prof. Mentor Cloves Rocha.
 6. Marcondes Paixão Silva de Albuquerque Júnior
 
 # GROUPS / PROJECTS / CHALLENGES
-1. João Vitor Nascimento da Silva, Lucas Ximenes de Albuquerque, Marcondes Paixão Silva de Albuquerque Júnior, Marcos Antônio de Lima lira Neto, Thiago Layme Firmino de Lima, Tiago da Silva
-2. ?
-3. ?
-4. Ian Cassundé dos Santos, Eliabe Sales Silva Filho, João Pedro Machado Farias, Gabriel Pontes Rodrigues, Victor Gabriel Fernandes da Silva, Álvaro José Gomes de Oliveira
-5. Thiago Pimentel Ferreira de Souza Cabral, Guilherme César Teixeira Pontes Pereira, Igor da Cruz Ribeiro de Andrade, Kauã Manoel dos Santos Silva, Gabriel Rian Souza da Silva, Layzon Moura de Albuquerque 
+1. João Vitor Nascimento da Silva, Lucas Ximenes de Albuquerque, Marcondes Paixão Silva de Albuquerque Júnior, Marcos Antônio de Lima lira Neto, Thiago Layme Firmino de Lima, Tiago da Silva.
+2. Ian Cassundé dos Santos, Eliabe Sales Silva Filho, João Pedro Machado Farias, Gabriel Pontes Rodrigues, Victor Gabriel Fernandes da Silva, Álvaro José Gomes de Oliveira
+3. Thiago Pimentel Ferreira de Souza Cabral, Guilherme César Teixeira Pontes Pereira, Igor da Cruz Ribeiro de Andrade, Kauã Manoel dos Santos Silva, Gabriel Rian Souza da Silva, Layzon Moura de Albuquerque 
 
 # Mind Map
 <img width="4305" height="8537" alt="NotebookLM Mind Map (12)" src="https://github.com/user-attachments/assets/ddceaf39-4609-441c-97dd-3ea422b0cc1c" />
