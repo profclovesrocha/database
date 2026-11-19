@@ -8,6 +8,7 @@ _Class Log | Docente: Prof. Mentor Cloves Rocha.
 6. Class 6 | Projeto Lógico.
 7. Class 7 | Normalização.
 ⚠️ NÃO APAGUE! | EXTRA 🔴 LIVE - Como trabalhar com Banco de Dados? da modelagem a implementação! https://www.youtube.com/live/r-jxUkxg2Zw?si=rRQ1QhsyLtqLKHKo
+8. Class 8 | Cyber Data Base SQL SEGURO - EXTRA 2 🔴 LIVE 2 https://www.youtube.com/live/usQlMBfvsSQ?si=cR5onzxuF_bDnIST
 
 
 # COURSE SYLLABUS:
