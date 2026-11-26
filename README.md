@@ -47,6 +47,10 @@ _Class Log | Docente: Prof. Mentor Cloves Rocha.
 2. Ian Cassundé dos Santos, Eliabe Sales Silva Filho, João Pedro Machado Farias, Gabriel Pontes Rodrigues, Victor Gabriel Fernandes da Silva, Álvaro José Gomes de Oliveira
 3. Thiago Pimentel Ferreira de Souza Cabral, Guilherme César Teixeira Pontes Pereira, Igor da Cruz Ribeiro de Andrade, Kauã Manoel dos Santos Silva, Gabriel Rian Souza da Silva, Layzon Moura de Albuquerque 
 
+# Persona e Mapa de Empatia
+<img width="2400" height="1792" alt="Gemini_Generated_Image_7fkukp7fkukp7fku" src="https://github.com/user-attachments/assets/786a5796-58ee-4caf-8f96-25b853acc1e5" />
+
+
 # Mind Map
 <img width="4305" height="8537" alt="NotebookLM Mind Map (12)" src="https://github.com/user-attachments/assets/ddceaf39-4609-441c-97dd-3ea422b0cc1c" />
 
